@@ -78,7 +78,8 @@ Commande Rapide (One-Liner)
 
 Ouvrez un terminal et collez cette commande :
 
-wget -O - https://raw.githubusercontent.com/MrTHP/mint_architect/main/mint_architect.sh | sudo bash
+```wget -O mint_architect.sh https://raw.githubusercontent.com/MrTHP/mint_architect/main/mint_architect.sh && chmod +x mint_architect.sh && sudo ./mint_architect.sh``` 
+
 
 Installation Manuelle
 

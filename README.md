@@ -80,19 +80,6 @@ Ouvrez un terminal et collez cette commande :
 
 ```wget -O mint_architect.sh https://raw.githubusercontent.com/MrTHP/mint_architect/main/mint_architect.sh && chmod +x mint_architect.sh && sudo ./mint_architect.sh``` 
 
-
-Installation Manuelle
-
-Ouvrez un terminal et collez cette commande :
-
-git clone https://github.com/MrTHP/mint_architect.git
-
-cd mint_architect/
-
-chmod +x mint_architect.sh
-
-sudo ./mint_architect.sh
-
 🖼️ Utilisation
 
 L'interface utilise whiptail pour une navigation simple au clavier :
